@@ -1,0 +1,10 @@
+.checkout-btn-container {
+    position: absolute;
+    margin-top: 10px; /* Adjust as needed */
+    margin-right: 0px; /* Adjust as needed */
+  }
+  
+  .container-fluid {
+    position: relative; /* Ensures absolute positioning works correctly */
+  }
+  
